@@ -1,0 +1,35 @@
+body{
+    background-image: url("../img/paper-1074131_1920.jpg");
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  
+  footer {
+    background-color: black;
+    color:white;
+    padding: 25px;
+  }
+  
+.carousel-inner img {
+    width: 50%;
+    margin: auto;
+    min-height:200px;
+}
+
+@media (max-width: 600px) {
+  .carousel-caption {
+    display: none; 
+  }
+}
+
+video{
+  width: 100%;
+}
+
+.js{
+    width: 30%;
+    height: 30%;
+}
