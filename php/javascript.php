@@ -52,6 +52,9 @@
             versión ECMAScript 6.7​<br>
         </p>
     </div>
+    <?php
+        include "../inc/includeIndex.inc";
+    ?>
 
     <?php
         include "../inc/footer.inc";

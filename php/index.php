@@ -92,6 +92,9 @@
             </div>
         </div>
     </div>
+    <?php
+        include "../inc/includeIndex.inc";
+    ?>
 
     <?php
         include "../inc/footer.inc";
